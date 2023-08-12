@@ -76,5 +76,6 @@ Adjust parameters in the train-test split and logistic regression sections.
     - The `predict_proba` method of the model is used to get the probability estimates for the classes for the `sample_for_rock`.
     - The `predict` method can be used to directly predict the class of the sample.
 
-Overall, the code focuses on loading, visualizing, preprocessing, training, and evaluating a logistic regression model for the task of rock vs. mine classification using sonar data. If you have any specific questions or need further explanations about any part of the code, feel free to ask!
+
+
 

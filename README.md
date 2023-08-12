@@ -17,8 +17,18 @@ Make sure you have the following software installed:
 
 ### Installation
 
-1. Clone the repository:
+##Usage
+Place your sonar data CSV file in the repository directory.
 
-```bash
-git clone https://github.com/YourUsername/rock-vs-mine-classification.git
+Open a terminal and navigate to the repository directory.
+
+Run the Python script:
+python rock_vs_mine_detection for submarine.ipynb
+
+The script will display various visualizations and the accuracy of the logistic regression model.
+Customization
+You can customize the code to suit your needs:
+
+Modify file paths to match your data location.
+Adjust parameters in the train-test split and logistic regression sections.
 
